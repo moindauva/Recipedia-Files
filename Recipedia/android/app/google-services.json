@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "67174064583",
+    "project_id": "fyp-recipedia",
+    "storage_bucket": "fyp-recipedia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67174064583:android:74d1ae8e08a86777ddf9e2",
+        "android_client_info": {
+          "package_name": "com.recipedia.fyp.recipedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67174064583-oai9atf12els62qpjtnj86kl3b4k1rnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recipedia.fyp.recipedia",
+            "certificate_hash": "64c66c0088db0afdaa43311b3b368c53aab30a63"
+          }
+        },
+        {
+          "client_id": "67174064583-4fi1sfrdlbtjhsi285m075ag6r4jbcu2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAYJsecUl4GNRVfEHMN99ePV8Oe_aU7qc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67174064583-4fi1sfrdlbtjhsi285m075ag6r4jbcu2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
